@@ -17,12 +17,14 @@
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/franfigueiredoo/" alt="Instagram">
+  <a href="https://www.instagram.com/franfigueiredoo/" target="_blank" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=2ec18b&link=https://www.instagram.com/franfigueiredoo"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/francinefigueiredo" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/francinefigueiredo" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=2ec18b&link=https://www.linkedin.com/in/francinefigueiredo"/>
   </a>
+  
+  <a href = "mailto:francinexfj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=2ec18b" target="_blank"></a>
   
 </p>
