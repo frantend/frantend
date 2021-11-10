@@ -18,11 +18,11 @@
 
 <p align="left">
   <a href="https://www.instagram.com/franfigueiredoo/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/franfigueiredoo"/>
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=2ec18b&link=https://www.instagram.com/franfigueiredoo"/>
   </a>
   
   <a href="https://www.linkedin.com/in/francinefigueiredo" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/francinefigueiredo"/>
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=2ec18b&link=https://www.linkedin.com/in/francinefigueiredo"/>
   </a>
   
 </p>
