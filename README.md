@@ -1,4 +1,4 @@
-<img src="https://github.com/frantend/frantend/blob/master/FrantEnd.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://github.com/frantend/frantend/blob/master/FrantEnd.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left"> 
   🌎  Olá, eu sou a Fran. Sou <strong>Estudante de Desenvolvimento Web Full Stack</strong> de dia na  <strong>Descomplica</strong> e de noite na <strong>Trybe</strong>.
