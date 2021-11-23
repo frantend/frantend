@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript.</strong>
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Git</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Trello, Notion, Slack, Zoom, Git e GitHub.</strong>
+  💼 Ferramentas: <strong>VSCode, Trello, Notion, Slack, Zoom e GitHub.</strong>
 </p>
 
 <p align="left">
