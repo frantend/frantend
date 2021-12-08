@@ -1,3 +1,5 @@
+ 
+
 <img src="https://github.com/frantend/frantend/blob/master/FrantEnd.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left"> 
@@ -17,6 +19,7 @@
 </p>
 
 <p align="left">
+  
   <a href = "mailto:francinexfj@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=2ec18b" target="_blank">
   </a>
@@ -29,4 +32,9 @@
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=2ec18b&link=https://www.linkedin.com/in/francinefigueiredo"/>
   </a>
   
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=frantend&color=2ec18b&style=flat-square&label=Visualizações)
+  
 </p>
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=frantend&show_icons=true)
+![](https://hit.yhype.me/github/profile?user_id=53994426)
