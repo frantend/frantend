@@ -1,6 +1,6 @@
- 
 
-<img src="https://github.com/frantend/frantend/blob/master/FrantEnd.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador">
+
+<img src="https://avatars.githubusercontent.com/u/11892339?v=4" min-width="400px" max-width="300px" width="300px" align="right" alt="OctoFran">
 
 <p align="left"> 
   🌎  Olá, eu sou a Fran. Sou <strong>Graduanda em Sistemas para Internet</strong> de dia na  <strong>Faculdade Descomplica</strong> e estudante de Desenvolvimento Web de noite na <strong>Trybe</strong>.
