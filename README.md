@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Git.</strong>
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, React, Vue, Git, Metodologias Ágeis</strong>
 </p>
 
 <p align="left">
