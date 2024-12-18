@@ -3,7 +3,7 @@
 <img src="https://avatars.githubusercontent.com/u/11892339?v=4" min-width="400px" max-width="300px" width="300px" align="right" alt="OctoFran">
 
 <p align="left"> 
-  🌎  Olá, eu sou a Fran. Sou <strong>Graduanda em Sistemas para Internet</strong> de dia na  <strong>Faculdade Descomplica</strong> e estudante de Desenvolvimento Web de noite na <strong>Trybe</strong>.
+  🌎  Olá, eu sou a Fran. Sou <strong>Graduada em Sistemas para Internet</strong> na  <strong>Fatec </strong>.
 </p>
 
 <p align="left">
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=2ec18b" target="_blank">
   </a>
   
-  <a href="https://www.instagram.com/franfigueiredoo/" target="_blank" alt="Instagram">
+  <a href="https://www.instagram.com/franfigueiredoo.design/" target="_blank" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=2ec18b&link=https://www.instagram.com/franfigueiredoo"/>
   </a>
   
